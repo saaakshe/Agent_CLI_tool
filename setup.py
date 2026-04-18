@@ -17,7 +17,7 @@ setup(
     name="local-agentic-cli",
     version="0.1.0",
     description="Local AI-powered CLI with memory and multi-agent workflows",
-    author="Jayesh",
+    author="Saakshe",
     packages=find_packages(),
     py_modules=["config"],
     python_requires=">=3.10",
