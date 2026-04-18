@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: local-agentic-cli
+Version: 0.1.0
+Summary: Local AI-powered CLI with memory and multi-agent workflows
+Author: Jayesh
+Requires-Python: >=3.10
+Requires-Dist: fastapi==0.110.0
+Requires-Dist: uvicorn[standard]==0.29.0
+Requires-Dist: httpx==0.27.0
+Requires-Dist: anyio==4.3.0
+Requires-Dist: typer
+Requires-Dist: rich
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langgraph
+Requires-Dist: faiss-cpu
+Requires-Dist: sentence-transformers
+Requires-Dist: python-dotenv
+Requires-Dist: loguru
+Requires-Dist: orjson
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

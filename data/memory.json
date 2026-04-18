@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-04-14T22:42:25.056182+00:00",
+    "kind": "ask",
+    "summary": "hello, are you running",
+    "details": {
+      "notes": "Answered using Ollama."
+    },
+    "tokens": [
+      "answered",
+      "are",
+      "ask",
+      "hello",
+      "notes",
+      "ollama",
+      "running",
+      "using",
+      "you"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T22:43:46.283475+00:00",
+    "kind": "ask",
+    "summary": "hello",
+    "details": {
+      "notes": "Answered using Ollama."
+    },
+    "tokens": [
+      "answered",
+      "ask",
+      "hello",
+      "notes",
+      "ollama",
+      "using"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T22:44:19.214178+00:00",
+    "kind": "ask",
+    "summary": "what can you do for me ",
+    "details": {
+      "notes": "Answered using Ollama."
+    },
+    "tokens": [
+      "answered",
+      "ask",
+      "can",
+      "do",
+      "for",
+      "me",
+      "notes",
+      "ollama",
+      "using",
+      "what",
+      "you"
+    ]
+  }
+]
